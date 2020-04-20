@@ -36,8 +36,8 @@ It grows as I learn.
 
 ## Libraries
 
-[lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)
-[Ramda](https://ramdajs.com/)
-[fp-ts](https://gcanti.github.io/fp-ts/)
-[Sacturary](https://sanctuary.js.org/)
-[Folktale](https://folktale.origamitower.com/)
+- [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)
+- [Ramda](https://ramdajs.com/)
+- [fp-ts](https://gcanti.github.io/fp-ts/)
+- [Sacturary](https://sanctuary.js.org/)
+- [Folktale](https://folktale.origamitower.com/)
